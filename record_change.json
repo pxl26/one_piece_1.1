@@ -1,0 +1,1 @@
+{"Comment": "CREATE/DELETE/UPSERT a record ","Changes": [{"Action": "UPSERT","ResourceRecordSet": {"Name": "storage.travelovecompany.com","Type": "CNAME","TTL": 300,"ResourceRecords": [{ "Value": "thumbnail-elb-2037341804.ap-southeast-1.elb.amazonaws.com"}]}}]}
